@@ -1,0 +1,2 @@
+-- script V2 Sae | Minh Hub
+loadstring(game:HttpGet("https://pastefy.app/t5PkTiZZ/raw", true))()
