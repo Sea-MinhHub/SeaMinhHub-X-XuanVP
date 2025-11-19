@@ -1,2 +1,0 @@
---script v 2.0.0
-loadstring(game:HttpGet("https://pastefy.app/fm6O09LU/raw", true))()
